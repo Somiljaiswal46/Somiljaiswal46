@@ -2,8 +2,13 @@ Hi there 👋 I am Somil Jaiswal
 
 About me 
 
-B.Tech 2nd Year Student
-Focusing on Machine Learning & Data Analytics. I love simplifying complex tech topics and am constantly improving my technical vocabulary and English skills.
-🌱 Learning: ML, OS, & Software Engineering.
+I’m a B.Tech 2nd-year student with a strong interest in Machine Learning and Data Analytics. I enjoy exploring how data, algorithms, and systems work together to solve real-world problems and generate meaningful insights.
+🌱 Currently Learning
+• Machine Learning
+• Data Analysis & Visualization
+• DSA with C++
+• Web Development
+• Software Engineering fundamentals
+
 
 📧 Contact: somiljaiswal46@gmail.com.
