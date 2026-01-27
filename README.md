@@ -16,18 +16,20 @@ I’m a B.Tech 2nd-year student with a strong interest in Machine Learning and D
 
 • Software Engineering fundamentals
 
+📫 Contact: somiljaiswal46@gmail.com
 
 
-My GitHub Stats 📊
 
-![Somil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Somiljaiswal46&show_icons=true&theme=radical)
+📊 My GitHub Stats
+
+![Somil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Somiljaiswal46&show_icons=true&theme=radical)
+
+![Somil's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Somiljaiswal46&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Somiljaiswal46&layout=compact&theme=radical)
 
 
 
-🔭 Current Work: Developing projects focused on Data Analytics and Statistical Modeling.
-🌱 Learning: Deepening my knowledge in Machine Learning, Operating Systems, and Software Engineering principles.
-💬 Ask me about: Python basics, Data Visualization, or Machine Learning fundamentals.
 📫 Contact: somiljaiswal46@gmail.com
 
 
