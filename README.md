@@ -1,4 +1,6 @@
-Hi, I'm Somil Jaiswal 👋
+Hi there 👋 I am Somil Jaiswal 
+
+About me 
 
 B.Tech 2nd Year Student
 Focusing on Machine Learning & Data Analytics. I love simplifying complex tech topics and am constantly improving my technical vocabulary and English skills.
