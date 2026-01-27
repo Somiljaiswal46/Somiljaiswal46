@@ -17,4 +17,4 @@ I’m a B.Tech 2nd-year student with a strong interest in Machine Learning and D
 • Software Engineering fundamentals
 
 
-📧 Contact: somiljaiswal46@gmail.com.
+
