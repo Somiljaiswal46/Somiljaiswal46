@@ -20,11 +20,7 @@ I’m a B.Tech 2nd-year student with a strong interest in Machine Learning and D
 
 
 
-# My Github Stats
 
-![Somil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Somiljaiswal46&show_icons=true&theme=radical)
-
-![Somil's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Somiljaiswal46&theme=radical)
 
 
 
