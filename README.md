@@ -2,7 +2,7 @@
 
 **About me**
 
-I’m a B.Tech 2nd-year student with a strong interest in Machine Learning and Data Analytics. I enjoy exploring how data, algorithms, and systems work together to solve real-world problems and generate meaningful insights.
+I’m a B.Tech 2nd-year student with a strong interest in Machine Learning and Data Analytics. I enjoy exploring how data, algorithms, and systems work together to solve real-world problems and generate meaningfull insights.
 
 🌱 Currently Learning
 
