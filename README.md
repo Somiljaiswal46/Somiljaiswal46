@@ -116,19 +116,19 @@ goal:
 <div align="center">
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://www.linkedin.com/in/somil-jaiswal-820153333" />
 </a>
 
 <a href="YOUR_GITHUB_URL">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://github.com/Somiljaiswal46" />
 </a>
 
 <a href="YOUR_PORTFOLIO_URL">
-<img src="https://skillicons.dev/icons?i=vercel" />
+<img src="https://somil-jaiswal-3-d-portfolio-ai.vercel.app/" />
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="somiljaiswal46@gmail.com" />
 </a>
 
 </div>
