@@ -6,8 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI+That+Solves+Real+Problems;Full+Stack+Developer+%7C+ML+Explorer;Turning+Ideas+Into+Scalable+Products;Learning+%2B+Building+%2B+Growing" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
-
 </div>
 
 ---
@@ -54,7 +52,7 @@ goal:
 
 ### AI / ML
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 
 ### Tools
 
@@ -77,13 +75,13 @@ goal:
 
 <div align="center">
 
-| Project                   | Description                                |
-| ------------------------- | ------------------------------------------ |
-| 📰 Fake News Detector     | NLP-based real vs fake news classification |
-| 🌾 Crop Recommendation    | ML system for agricultural intelligence    |
-| 😊 Sentiment Analysis     | Real-time text emotion detection           |
-| ✍ Handwriting Recognition | Transformer-based OCR model                |
-| 🌐 3D Portfolio           | Interactive developer portfolio            |
+| Project                   | Description                                  |
+| ------------------------- | -------------------------------------------- |
+| 📰 Fake News Detector     | NLP-based fake vs real news classification   |
+| 🌾 Crop Recommendation    | Smart crop prediction using ML               |
+| 😊 Sentiment Analysis     | Real-time emotion & sentiment classification |
+| ✍ Handwriting Recognition | Transformer-powered OCR system               |
+| 🌐 3D Portfolio           | Interactive premium developer portfolio      |
 
 </div>
 
@@ -105,9 +103,9 @@ goal:
 # 🏆 Achievements
 
 🏅 Built multiple AI + ML real-world projects
-🏅 Active in Full Stack Development
+🏅 Strong focus on Full Stack Development
 🏅 Consistently improving problem-solving skills
-🏅 Exploring industry-level development practices
+🏅 Exploring production-level software architecture
 
 ---
 
@@ -115,20 +113,20 @@ goal:
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://www.linkedin.com/in/somil-jaiswal-820153333" />
+<a href="https://www.linkedin.com/in/somil-jaiswal-820153333">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="YOUR_GITHUB_URL">
-<img src="https://github.com/Somiljaiswal46" />
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://somil-jaiswal-3-d-portfolio-ai.vercel.app/" />
+<a href="https://somil-jaiswal-3-d-portfolio-ai.vercel.app/">
+<img src="https://skillicons.dev/icons?i=vercel" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="somiljaiswal46@gmail.com" />
+<a href="mailto:somiljaiswal46@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 </div>
