@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Somil Jaiswal ⚡
+# ⚡ Somil Jaiswal 
 
 ### AI Engineer • Full Stack Developer • Problem Solver
 
