@@ -117,10 +117,6 @@ goal:
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
 <a href="https://somil-jaiswal-3-d-portfolio-ai.vercel.app/">
 <img src="https://skillicons.dev/icons?i=vercel" />
 </a>
